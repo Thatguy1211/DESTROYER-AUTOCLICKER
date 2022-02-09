@@ -1,7 +1,5 @@
 import colorama
-import keyboard
-import pyautogui
-import mouse
+import keyboard, mouse, pyautogui
 import time
 from time import sleep
 from colorama import init, Fore, Back, Style
